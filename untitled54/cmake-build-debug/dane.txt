@@ -1,0 +1,2 @@
+informacja linia 1
+10
